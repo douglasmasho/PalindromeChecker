@@ -13,7 +13,7 @@ namespace ConsoleApp6
             //evaluate the length of the string
 
 
-            //if the string length is even
+            
                   //get the forward half of the word
                   string substrForwards = word.Substring(0, ((word.Length) / 2));
                   Console.WriteLine($"This is the forwards substring, {substrForwards}");
